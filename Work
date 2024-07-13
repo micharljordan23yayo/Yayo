@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio di Franck Yannick Gueye</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        .content {
+            padding: 2em;
+        }
+        .section {
+            margin-bottom: 2em;
+        }
+        .section h2 {
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 0.5em;
+        }
+        .project img {
+            max-width: 100%;
+            height: auto;
+        }
+        .footer {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em;
+            text-align: center;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Franck Yannick Gueye</h1>
+        <p>Assistente alla regia con tre anni di esperienza nel mondo del cinema</p>
+        <p>Strada di Monte Gemini 23, 00063 Roma | 3888841328 | gueyefranckyannick@icloud.com</p>
+        <p><a href="https://www.linkedin.com/in/franck-yannick-gueye-9a5398257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" style="color: white;">LinkedIn</a></p>
+    </div>
+
+    <div class="content">
+        <div class="section">
+            <h2>Chi Sono</h2>
+            <p>Sono Franck Yannick Gueye, assistente alla regia con tre anni di esperienza nel mondo del cinema. Ho lavorato su diversi progetti, aiutando a organizzare le riprese e gestendo il set. Mi piace affrontare nuove sfide e imparare sempre di più.</p>
+        </div>
+
+        <div class="section">
+            <h2>Educazione</h2>
+            <p><strong>Cinema e Regia</strong><br>
+            Università di Roma Tre, Roma</p>
+        </div>
+
+        <div class="section">
+            <h2>Esperienza Professionale</h2>
+            <p><strong>Cast/Set PA - Indiana Production, Roma</strong><br>
+            Ottobre 2022 - Ottobre 2023<br>
+            Descrizione del ruolo e delle responsabilità. Progetti specifici su cui hai lavorato.</p>
+
+            <p><strong>Set AD - Catleya, Roma</strong><br>
+            Agosto 2023 - Ottobre 2023<br>
+            Descrizione del ruolo e delle responsabilità. Progetti specifici su cui hai lavorato.</p>
+
+            <p><strong>Cast/Set PA - Sky, Roma</strong><br>
+            2021<br>
+            Descrizione del ruolo e delle responsabilità. Progetti specifici su cui hai lavorato.</p>
+        </div>
+
+        <div class="section">
+            <h2>Competenze Tecniche</h2>
+            <ul>
+                <li>Photoshop</li>
+                <li>Premiere</li>
+                <li>World</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Lingue</h2>
+            <ul>
+                <li>Italiano: Madrelingua</li>
+                <li>Francese: Madrelingua</li>
+                <li>Inglese: Fluente</li>
+                <li>Spagnolo: Buono</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Hobby e Interessi</h2>
+            <p>Pallacanestro</p>
+        </div>
+
+        <div class="section">
+            <h2>Progetti</h2>
+            <div class="project">
+                <h3>La Signora Volpe 2</h3>
+                <p><strong>Ruolo</strong>: Assistente alla Regia<br>
+                <strong>Direttore</strong>: Declan Recks<br>
+                <strong>Camera</strong>: Patrick Jordan ISC<br>
+                <strong>Data</strong>: 19/9/23<br>
+                Descrizione del Progetto: Una serie drammatica che segue le avventure di una donna che si reinventa investigatrice privata.</p>
+                <img src="file-H01BI9JWe57gnqSxfMzVFguu.jpg" alt="La Signora Volpe 2 - Clapperboard">
+                <img src="file-ThCVyib1HaI2DYKBuQaKIUPB.jpg" alt="La Signora Volpe 2 - Dietro le Quinte">
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Per ulteriori informazioni o per collaborazioni, non esitare a contattarmi.</p>
+    </div>
+
+</body>
+</html>
